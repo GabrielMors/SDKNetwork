@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SDKNetwork'
-  s.version          = '0.1.0'
+  s.version          = '0.0.1'
   s.summary          = 'SDKNetwork - Uma biblioteca poderosa para realizar operações de rede de forma eficiente.'
   s.swift_version    = '5.0'
 
